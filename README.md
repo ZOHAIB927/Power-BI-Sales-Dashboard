@@ -4,7 +4,7 @@
 
 📌 Overview
 
-This project demonstrates an end-to-end data analytics workflow using SQL Server and Power BI. We take raw data from an Excel file, clean and structure it in SQL, and build an interactive Power BI dashboard to extract key business insights.
+This project demonstrates an end-to-end data analytics workflow using SQL Server and Power BI. We take raw sales data from an Excel file, clean and structure it in SQL, and build an interactive Power BI dashboard to extract key business insights.
 
 📂 Project Workflow
 
@@ -26,7 +26,7 @@ Used SQL queries to analyze revenue trends and customer behavior
 
 Built an interactive dashboard
 
-Presented insights on revenue trends, seasonality, and pricing impact
+Presented insights on sales by customer, category, sub-category, state and region
 
 🔧 Tools Used
 
@@ -39,9 +39,11 @@ Excel & Flat Files – Raw data sources
 
 📊 Key Insights
 
-Seasonal demand fluctuations impact revenue.
+Technology has the highest sales by category followed by furniture and office supplies
 
-A 25% price increase led to higher revenue without reducing demand.
+West region has the highest sales, while South has the lowest sales in the region.
+
+Technology has generated highest profit, followed by office supplies and furniture.
 
 Data-driven pricing strategies can optimize revenue without customer churn.
 
@@ -69,4 +71,4 @@ Use provided .pbix file to explore insights
 
 💡 Conclusion
 
-This project highlights how SQL and Power BI can be leveraged to make data-driven business decisions. If you're looking to improve your skills in business intelligence and data analytics, this is a great hands-on project to explore!
+This project highlights how SQL and Power BI can be leveraged to generate insights which can help to make data-driven business decisions!

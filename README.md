@@ -10,63 +10,66 @@ This project demonstrates an end-to-end data analytics workflow using SQL Server
 
 1️⃣ Data Preparation:
 
-Imported raw data from Excel into SQL Server
+● Imported raw data from Excel into SQL Server
 
-Cleaned and structured data for analysis
+● Cleaned and structured data for analysis
 
 
 2️⃣ SQL Data Processing:
 
-Created a relational database
+● Created a relational database
 
-Used SQL queries to analyze revenue trends and customer behavior
+● Used SQL queries to analyze revenue trends and customer behavior
 
 
 3️⃣ Power BI Visualization:
 
-Built an interactive dashboard
+● Built an interactive dashboard
 
-Presented insights on sales by customer, category, sub-category, state and region
+● Presented insights on sales by customer, category, sub-category, state and region
 
 🔧 Tools Used
 
-SQL Server Management Studio (SSMS) – Data storage & querying
+● SQL Server Management Studio (SSMS) – Data storage & querying
 
-Power BI – Data visualization & dashboard creation
+● Power BI – Data visualization & dashboard creation
 
-Excel & Flat Files – Raw data sources
+● Excel & Flat Files – Raw data sources
 
 
 📊 Key Insights
 
-Technology has the highest sales by category followed by furniture and office supplies
+● Technology has the highest sales by category followed by furniture and office supplies
 
-West region has the highest sales, while South has the lowest sales in the region.
+● West region has the highest sales, while South has the lowest sales in the region.
 
-Technology has generated highest profit, followed by office supplies and furniture.
+● Technology has generated highest profit, followed by office supplies and furniture.
 
-Data-driven pricing strategies can optimize revenue without customer churn.
+● Data-driven pricing strategies can optimize revenue without customer churn.
+
+
+
 
 
 🚀 How to Run the Project
 
 1️⃣ Setup SQL Database
 
-Install SQL Server & SSMS
+● Install SQL Server & SSMS
 
-Import the provided dataset (.csv or .xlsx) into SQL
+● Import the provided dataset (.csv or .xlsx) into SQL
 
-Run the SQL scripts to clean and structure data
+● Run the SQL scripts to clean and structure data
 
 2️⃣ Run Queries
 
-Execute SQL queries in queries.sql to extract insights
+● Execute SQL queries in queries.sql to extract insights
 
 3️⃣ Load Data into Power BI
 
-Connect Power BI to SQL Server
+● Connect Power BI to SQL Server
 
-Use provided .pbix file to explore insights
+● Use provided .pbix file to explore insights
 
 
 💡 Conclusion
